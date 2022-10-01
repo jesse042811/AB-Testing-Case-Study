@@ -2,13 +2,13 @@
 
 AB Testing Procedure:
 
-1. Problem Statement - What is the goal of the experiment?
+1. Experiment Definition
 
-2. Hypothesis Testing - What results do you hypothesize from the experiment?
+2. Data Collection
 
-3. Designing the Expirement - What are your experiment parameters?
+3. Data Processing
 
-4. Run the Expirement - What are the requirements for running an experiment?
+4. Experiment: Frequentist Approach
 
 5. Validity Checks - Did the experiment run soundly without errors or bias?
 
@@ -16,3 +16,4 @@ AB Testing Procedure:
 
 7. Launch Decision - Based on the results and trade-offs, should the change launch?
 
+References: [1] Good blog to understand Beta Distribution: http://varianceexplained.org/statistics/beta_distribution_and_baseball/
