@@ -10,10 +10,10 @@ AB Testing Procedure:
 
 4. Experiment: Frequentist Approach
 
-5. Validity Checks - Did the experiment run soundly without errors or bias?
+5. Experiment: Bayesian Approach¶
 
 6. Interpret Results - In which direction is the metric significant statistically and practically?
 
-7. Launch Decision - Based on the results and trade-offs, should the change launch?
+7. Launch Decision - Based on the results and trade-offs, was the change succesful?
 
 References: [1] Good blog to understand Beta Distribution: http://varianceexplained.org/statistics/beta_distribution_and_baseball/
